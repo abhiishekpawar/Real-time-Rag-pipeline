@@ -56,7 +56,7 @@ The system is composed of **two streaming pipelines**:
 │  incident_knowledge_base (Kafka Topic)                              │
 │            │                                                        │
 │            ▼                                                        │
-│  Flink SQL: AI_EMBEDDING() via BAAI/bge-large-en-v1.5              │
+│  Flink SQL: AI_EMBEDDING() via BAAI/bge-large-en-v1.5               │
 │            │                                                        │
 │            ▼                                                        │
 │  incident_knowledge_base_embeddings (Kafka Topic)                   │
@@ -71,7 +71,7 @@ The system is composed of **two streaming pipelines**:
 │  user_questions (Kafka Topic)                                       │
 │            │                                                        │
 │            ▼                                                        │
-│  Flink SQL: AI_EMBEDDING() via BAAI/bge-large-en-v1.5              │
+│  Flink SQL: AI_EMBEDDING() via BAAI/bge-large-en-v1.5               │
 │            │                                                        │
 │            ▼                                                        │
 │  user_questions_embedding (Kafka Topic)                             │
