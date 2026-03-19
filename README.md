@@ -402,7 +402,7 @@ npm start
 
 ---
 
-## Demo vide0
+## Demo video
 
 **RealTime RAG in Action** - [Demo video](https://drive.google.com/file/d/1xwbbFpetOa4NiHvglvuDZMHlXjJw6au2/view?usp=drive_link)
 
