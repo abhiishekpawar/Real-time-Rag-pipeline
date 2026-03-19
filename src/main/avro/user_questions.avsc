@@ -1,0 +1,12 @@
+{
+  "doc": "Sample schema to help you get started.",
+  "fields": [
+    {
+      "name": "question",
+      "type": "string"
+    }
+  ],
+  "name": "UserQuestion",
+  "namespace": "com.demo.schema",
+  "type": "record"
+}

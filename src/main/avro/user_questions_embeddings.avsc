@@ -1,0 +1,16 @@
+{
+  "doc": "Embedding vector message",
+  "fields": [
+    {
+      "doc": "Embedding vector",
+      "name": "vector",
+      "type": {
+        "items": "float",
+        "type": "array"
+      }
+    }
+  ],
+  "name": "VectorEmbedding",
+  "namespace": "com.rag.vector",
+  "type": "record"
+}
